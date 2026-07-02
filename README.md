@@ -19,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/thesikanM/Placement_HomeWork/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0228-summary-ranges](https://github.com/thesikanM/Placement_HomeWork/tree/main/0228-summary-ranges/) | Easy |
 | [0881-boats-to-save-people](https://github.com/thesikanM/Placement_HomeWork/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/thesikanM/Placement_HomeWork/tree/main/0905-sort-array-by-parity/) | Easy |
 ## Greedy
