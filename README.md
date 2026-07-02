@@ -15,6 +15,7 @@
 | [0125-valid-palindrome](https://github.com/thesikanM/Placement_HomeWork/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/thesikanM/Placement_HomeWork/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/thesikanM/Placement_HomeWork/tree/main/0443-string-compression/) | Medium |
+| [0459-repeated-substring-pattern](https://github.com/thesikanM/Placement_HomeWork/tree/main/0459-repeated-substring-pattern/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +44,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/thesikanM/Placement_HomeWork/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0459-repeated-substring-pattern](https://github.com/thesikanM/Placement_HomeWork/tree/main/0459-repeated-substring-pattern/) | Easy |
 <!---LeetCode Topics End-->
