@@ -3,22 +3,22 @@ class Solution {
         List<String>list =new ArrayList<>();
       int i=0;
       while(i<nums.length)
+      {
+        int start =nums[i];
+        while(i<nums.length-1 && nums[i]+1==nums[i+1])
         {
-            int start =nums[i];
-            while(i<nums.length-1 && nums[i]+1 == nums[i+1])
-            {
-                i++;
-            }
-           if(start ==nums[i])
-           {
-            list.add(String.valueOf(start));
-           }       
-           else
-           {
-           list.add(start+"->"+nums[i]);
-           }
-           i++;
+            i++;
         }
-        return list;
+        if(start ==nums[i])
+        {
+            list.add(String.valueOf(start));
+        }
+        else
+        {
+            list.add(start+"->"+nums[i]);
+        }
+        i++;
+      }
+      return list;
     }
 }
