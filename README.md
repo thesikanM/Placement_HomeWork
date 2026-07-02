@@ -19,6 +19,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/thesikanM/Placement_HomeWork/tree/main/0001-two-sum/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/thesikanM/Placement_HomeWork/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0228-summary-ranges](https://github.com/thesikanM/Placement_HomeWork/tree/main/0228-summary-ranges/) | Easy |
 | [0881-boats-to-save-people](https://github.com/thesikanM/Placement_HomeWork/tree/main/0881-boats-to-save-people/) | Medium |
@@ -48,4 +49,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/thesikanM/Placement_HomeWork/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/thesikanM/Placement_HomeWork/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
