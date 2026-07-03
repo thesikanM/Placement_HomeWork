@@ -13,7 +13,7 @@ class Solution {
             char ch =word.charAt(i);
             s+=morse[ch-'a'];
            }
-           set.add(s);
+           set.add(s); //--...-.
         }
         return set.size();  
     }
