@@ -18,6 +18,7 @@
 | [0443-string-compression](https://github.com/thesikanM/Placement_HomeWork/tree/main/0443-string-compression/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/thesikanM/Placement_HomeWork/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/thesikanM/Placement_HomeWork/tree/main/0804-unique-morse-code-words/) | Easy |
+| [3813-vowel-consonant-score](https://github.com/thesikanM/Placement_HomeWork/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/thesikanM/Placement_HomeWork/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -58,4 +59,8 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/thesikanM/Placement_HomeWork/tree/main/0001-two-sum/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/thesikanM/Placement_HomeWork/tree/main/0804-unique-morse-code-words/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3813-vowel-consonant-score](https://github.com/thesikanM/Placement_HomeWork/tree/main/3813-vowel-consonant-score/) | Easy |
 <!---LeetCode Topics End-->
