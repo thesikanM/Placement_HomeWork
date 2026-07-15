@@ -63,4 +63,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3813-vowel-consonant-score](https://github.com/thesikanM/Placement_HomeWork/tree/main/3813-vowel-consonant-score/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/thesikanM/Placement_HomeWork/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/thesikanM/Placement_HomeWork/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
