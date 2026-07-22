@@ -22,6 +22,7 @@
 | [0459-repeated-substring-pattern](https://github.com/thesikanM/Placement_HomeWork/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/thesikanM/Placement_HomeWork/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0917-reverse-only-letters](https://github.com/thesikanM/Placement_HomeWork/tree/main/0917-reverse-only-letters/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/thesikanM/Placement_HomeWork/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/thesikanM/Placement_HomeWork/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3803-count-residue-prefixes](https://github.com/thesikanM/Placement_HomeWork/tree/main/3803-count-residue-prefixes/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/thesikanM/Placement_HomeWork/tree/main/3813-vowel-consonant-score/) | Easy |
@@ -72,6 +73,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/thesikanM/Placement_HomeWork/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/thesikanM/Placement_HomeWork/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/thesikanM/Placement_HomeWork/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/thesikanM/Placement_HomeWork/tree/main/3838-weighted-word-mapping/) | Easy |
