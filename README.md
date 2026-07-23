@@ -7,6 +7,7 @@
 | [0125-valid-palindrome](https://github.com/thesikanM/Placement_HomeWork/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/thesikanM/Placement_HomeWork/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/thesikanM/Placement_HomeWork/tree/main/0443-string-compression/) | Medium |
+| [0844-backspace-string-compare](https://github.com/thesikanM/Placement_HomeWork/tree/main/0844-backspace-string-compare/) | Easy |
 | [0881-boats-to-save-people](https://github.com/thesikanM/Placement_HomeWork/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/thesikanM/Placement_HomeWork/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0917-reverse-only-letters](https://github.com/thesikanM/Placement_HomeWork/tree/main/0917-reverse-only-letters/) | Easy |
@@ -21,6 +22,7 @@
 | [0443-string-compression](https://github.com/thesikanM/Placement_HomeWork/tree/main/0443-string-compression/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/thesikanM/Placement_HomeWork/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/thesikanM/Placement_HomeWork/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0844-backspace-string-compare](https://github.com/thesikanM/Placement_HomeWork/tree/main/0844-backspace-string-compare/) | Easy |
 | [0917-reverse-only-letters](https://github.com/thesikanM/Placement_HomeWork/tree/main/0917-reverse-only-letters/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/thesikanM/Placement_HomeWork/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/thesikanM/Placement_HomeWork/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -73,6 +75,7 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/thesikanM/Placement_HomeWork/tree/main/0844-backspace-string-compare/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/thesikanM/Placement_HomeWork/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/thesikanM/Placement_HomeWork/tree/main/3813-vowel-consonant-score/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/thesikanM/Placement_HomeWork/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
@@ -85,4 +88,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/thesikanM/Placement_HomeWork/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/thesikanM/Placement_HomeWork/tree/main/0844-backspace-string-compare/) | Easy |
 <!---LeetCode Topics End-->
