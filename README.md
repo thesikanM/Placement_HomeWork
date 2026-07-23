@@ -23,6 +23,7 @@
 | [0459-repeated-substring-pattern](https://github.com/thesikanM/Placement_HomeWork/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/thesikanM/Placement_HomeWork/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0844-backspace-string-compare](https://github.com/thesikanM/Placement_HomeWork/tree/main/0844-backspace-string-compare/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/thesikanM/Placement_HomeWork/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0917-reverse-only-letters](https://github.com/thesikanM/Placement_HomeWork/tree/main/0917-reverse-only-letters/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thesikanM/Placement_HomeWork/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/thesikanM/Placement_HomeWork/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -73,6 +74,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/thesikanM/Placement_HomeWork/tree/main/0001-two-sum/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/thesikanM/Placement_HomeWork/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0884-uncommon-words-from-two-sentences](https://github.com/thesikanM/Placement_HomeWork/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thesikanM/Placement_HomeWork/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [3803-count-residue-prefixes](https://github.com/thesikanM/Placement_HomeWork/tree/main/3803-count-residue-prefixes/) | Easy |
 ## Simulation
@@ -98,5 +100,6 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0884-uncommon-words-from-two-sentences](https://github.com/thesikanM/Placement_HomeWork/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thesikanM/Placement_HomeWork/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 <!---LeetCode Topics End-->
