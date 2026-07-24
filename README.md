@@ -11,6 +11,7 @@
 | [0881-boats-to-save-people](https://github.com/thesikanM/Placement_HomeWork/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/thesikanM/Placement_HomeWork/tree/main/0905-sort-array-by-parity/) | Easy |
 | [0917-reverse-only-letters](https://github.com/thesikanM/Placement_HomeWork/tree/main/0917-reverse-only-letters/) | Easy |
+| [2540-minimum-common-value](https://github.com/thesikanM/Placement_HomeWork/tree/main/2540-minimum-common-value/) | Easy |
 | [3794-reverse-string-prefix](https://github.com/thesikanM/Placement_HomeWork/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/thesikanM/Placement_HomeWork/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/thesikanM/Placement_HomeWork/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
@@ -43,6 +44,7 @@
 | [0881-boats-to-save-people](https://github.com/thesikanM/Placement_HomeWork/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/thesikanM/Placement_HomeWork/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thesikanM/Placement_HomeWork/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2540-minimum-common-value](https://github.com/thesikanM/Placement_HomeWork/tree/main/2540-minimum-common-value/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/thesikanM/Placement_HomeWork/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -57,6 +59,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/thesikanM/Placement_HomeWork/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [2540-minimum-common-value](https://github.com/thesikanM/Placement_HomeWork/tree/main/2540-minimum-common-value/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +79,7 @@
 | [0804-unique-morse-code-words](https://github.com/thesikanM/Placement_HomeWork/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thesikanM/Placement_HomeWork/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thesikanM/Placement_HomeWork/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [2540-minimum-common-value](https://github.com/thesikanM/Placement_HomeWork/tree/main/2540-minimum-common-value/) | Easy |
 | [3803-count-residue-prefixes](https://github.com/thesikanM/Placement_HomeWork/tree/main/3803-count-residue-prefixes/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
