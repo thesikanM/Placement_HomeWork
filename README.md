@@ -59,6 +59,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/thesikanM/Placement_HomeWork/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0881-boats-to-save-people](https://github.com/thesikanM/Placement_HomeWork/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/thesikanM/Placement_HomeWork/tree/main/0905-sort-array-by-parity/) | Easy |
+| [3536-maximum-product-of-two-digits](https://github.com/thesikanM/Placement_HomeWork/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -99,6 +100,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/thesikanM/Placement_HomeWork/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/thesikanM/Placement_HomeWork/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
