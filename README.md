@@ -24,6 +24,7 @@
 | [0443-string-compression](https://github.com/thesikanM/Placement_HomeWork/tree/main/0443-string-compression/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/thesikanM/Placement_HomeWork/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/thesikanM/Placement_HomeWork/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0819-most-common-word](https://github.com/thesikanM/Placement_HomeWork/tree/main/0819-most-common-word/) | Easy |
 | [0844-backspace-string-compare](https://github.com/thesikanM/Placement_HomeWork/tree/main/0844-backspace-string-compare/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thesikanM/Placement_HomeWork/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0917-reverse-only-letters](https://github.com/thesikanM/Placement_HomeWork/tree/main/0917-reverse-only-letters/) | Easy |
@@ -44,6 +45,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/thesikanM/Placement_HomeWork/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/thesikanM/Placement_HomeWork/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/thesikanM/Placement_HomeWork/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0819-most-common-word](https://github.com/thesikanM/Placement_HomeWork/tree/main/0819-most-common-word/) | Easy |
 | [0881-boats-to-save-people](https://github.com/thesikanM/Placement_HomeWork/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/thesikanM/Placement_HomeWork/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thesikanM/Placement_HomeWork/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -86,6 +88,7 @@
 | [0001-two-sum](https://github.com/thesikanM/Placement_HomeWork/tree/main/0001-two-sum/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/thesikanM/Placement_HomeWork/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/thesikanM/Placement_HomeWork/tree/main/0804-unique-morse-code-words/) | Easy |
+| [0819-most-common-word](https://github.com/thesikanM/Placement_HomeWork/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thesikanM/Placement_HomeWork/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thesikanM/Placement_HomeWork/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/thesikanM/Placement_HomeWork/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -116,6 +119,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0819-most-common-word](https://github.com/thesikanM/Placement_HomeWork/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thesikanM/Placement_HomeWork/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thesikanM/Placement_HomeWork/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 <!---LeetCode Topics End-->
