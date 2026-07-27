@@ -48,6 +48,7 @@
 | [0819-most-common-word](https://github.com/thesikanM/Placement_HomeWork/tree/main/0819-most-common-word/) | Easy |
 | [0881-boats-to-save-people](https://github.com/thesikanM/Placement_HomeWork/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/thesikanM/Placement_HomeWork/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thesikanM/Placement_HomeWork/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thesikanM/Placement_HomeWork/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/thesikanM/Placement_HomeWork/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2540-minimum-common-value](https://github.com/thesikanM/Placement_HomeWork/tree/main/2540-minimum-common-value/) | Easy |
@@ -63,6 +64,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/thesikanM/Placement_HomeWork/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0881-boats-to-save-people](https://github.com/thesikanM/Placement_HomeWork/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/thesikanM/Placement_HomeWork/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thesikanM/Placement_HomeWork/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/thesikanM/Placement_HomeWork/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -122,4 +124,8 @@
 | [0819-most-common-word](https://github.com/thesikanM/Placement_HomeWork/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thesikanM/Placement_HomeWork/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thesikanM/Placement_HomeWork/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thesikanM/Placement_HomeWork/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 <!---LeetCode Topics End-->
