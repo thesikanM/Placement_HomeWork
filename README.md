@@ -30,6 +30,7 @@
 | [0917-reverse-only-letters](https://github.com/thesikanM/Placement_HomeWork/tree/main/0917-reverse-only-letters/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thesikanM/Placement_HomeWork/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/thesikanM/Placement_HomeWork/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/thesikanM/Placement_HomeWork/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/thesikanM/Placement_HomeWork/tree/main/3794-reverse-string-prefix/) | Easy |
 | [3803-count-residue-prefixes](https://github.com/thesikanM/Placement_HomeWork/tree/main/3803-count-residue-prefixes/) | Easy |
 | [3813-vowel-consonant-score](https://github.com/thesikanM/Placement_HomeWork/tree/main/3813-vowel-consonant-score/) | Easy |
@@ -65,6 +66,7 @@
 | [0881-boats-to-save-people](https://github.com/thesikanM/Placement_HomeWork/tree/main/0881-boats-to-save-people/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/thesikanM/Placement_HomeWork/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thesikanM/Placement_HomeWork/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/thesikanM/Placement_HomeWork/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/thesikanM/Placement_HomeWork/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -128,4 +130,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thesikanM/Placement_HomeWork/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/thesikanM/Placement_HomeWork/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 <!---LeetCode Topics End-->
