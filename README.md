@@ -29,6 +29,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/thesikanM/Placement_HomeWork/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0917-reverse-only-letters](https://github.com/thesikanM/Placement_HomeWork/tree/main/0917-reverse-only-letters/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thesikanM/Placement_HomeWork/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thesikanM/Placement_HomeWork/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/thesikanM/Placement_HomeWork/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/thesikanM/Placement_HomeWork/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3794-reverse-string-prefix](https://github.com/thesikanM/Placement_HomeWork/tree/main/3794-reverse-string-prefix/) | Easy |
@@ -61,6 +62,7 @@
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/thesikanM/Placement_HomeWork/tree/main/0881-boats-to-save-people/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/thesikanM/Placement_HomeWork/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thesikanM/Placement_HomeWork/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/thesikanM/Placement_HomeWork/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thesikanM/Placement_HomeWork/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/thesikanM/Placement_HomeWork/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/thesikanM/Placement_HomeWork/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Number Theory
