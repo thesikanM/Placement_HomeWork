@@ -22,6 +22,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/thesikanM/Placement_HomeWork/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0125-valid-palindrome](https://github.com/thesikanM/Placement_HomeWork/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/thesikanM/Placement_HomeWork/tree/main/0344-reverse-string/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/thesikanM/Placement_HomeWork/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/thesikanM/Placement_HomeWork/tree/main/0443-string-compression/) | Medium |
 | [0459-repeated-substring-pattern](https://github.com/thesikanM/Placement_HomeWork/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/thesikanM/Placement_HomeWork/tree/main/0804-unique-morse-code-words/) | Easy |
@@ -87,6 +88,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thesikanM/Placement_HomeWork/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/thesikanM/Placement_HomeWork/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/thesikanM/Placement_HomeWork/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@
 | [0001-two-sum](https://github.com/thesikanM/Placement_HomeWork/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/thesikanM/Placement_HomeWork/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/thesikanM/Placement_HomeWork/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/thesikanM/Placement_HomeWork/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0804-unique-morse-code-words](https://github.com/thesikanM/Placement_HomeWork/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/thesikanM/Placement_HomeWork/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thesikanM/Placement_HomeWork/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
