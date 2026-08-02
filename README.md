@@ -52,6 +52,7 @@
 | [0804-unique-morse-code-words](https://github.com/thesikanM/Placement_HomeWork/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/thesikanM/Placement_HomeWork/tree/main/0819-most-common-word/) | Easy |
 | [0881-boats-to-save-people](https://github.com/thesikanM/Placement_HomeWork/tree/main/0881-boats-to-save-people/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/thesikanM/Placement_HomeWork/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/thesikanM/Placement_HomeWork/tree/main/0905-sort-array-by-parity/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thesikanM/Placement_HomeWork/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thesikanM/Placement_HomeWork/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
@@ -89,6 +90,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/thesikanM/Placement_HomeWork/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/thesikanM/Placement_HomeWork/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/thesikanM/Placement_HomeWork/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/thesikanM/Placement_HomeWork/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +109,7 @@
 | [0804-unique-morse-code-words](https://github.com/thesikanM/Placement_HomeWork/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0819-most-common-word](https://github.com/thesikanM/Placement_HomeWork/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thesikanM/Placement_HomeWork/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/thesikanM/Placement_HomeWork/tree/main/0904-fruit-into-baskets/) | Medium |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thesikanM/Placement_HomeWork/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/thesikanM/Placement_HomeWork/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2540-minimum-common-value](https://github.com/thesikanM/Placement_HomeWork/tree/main/2540-minimum-common-value/) | Easy |
