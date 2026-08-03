@@ -30,6 +30,7 @@
 | [0844-backspace-string-compare](https://github.com/thesikanM/Placement_HomeWork/tree/main/0844-backspace-string-compare/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thesikanM/Placement_HomeWork/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0917-reverse-only-letters](https://github.com/thesikanM/Placement_HomeWork/tree/main/0917-reverse-only-letters/) | Easy |
+| [1002-find-common-characters](https://github.com/thesikanM/Placement_HomeWork/tree/main/1002-find-common-characters/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thesikanM/Placement_HomeWork/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thesikanM/Placement_HomeWork/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/thesikanM/Placement_HomeWork/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -54,6 +55,7 @@
 | [0881-boats-to-save-people](https://github.com/thesikanM/Placement_HomeWork/tree/main/0881-boats-to-save-people/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/thesikanM/Placement_HomeWork/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/thesikanM/Placement_HomeWork/tree/main/0905-sort-array-by-parity/) | Easy |
+| [1002-find-common-characters](https://github.com/thesikanM/Placement_HomeWork/tree/main/1002-find-common-characters/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thesikanM/Placement_HomeWork/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thesikanM/Placement_HomeWork/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/thesikanM/Placement_HomeWork/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -110,6 +112,7 @@
 | [0819-most-common-word](https://github.com/thesikanM/Placement_HomeWork/tree/main/0819-most-common-word/) | Easy |
 | [0884-uncommon-words-from-two-sentences](https://github.com/thesikanM/Placement_HomeWork/tree/main/0884-uncommon-words-from-two-sentences/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/thesikanM/Placement_HomeWork/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1002-find-common-characters](https://github.com/thesikanM/Placement_HomeWork/tree/main/1002-find-common-characters/) | Easy |
 | [2085-count-common-words-with-one-occurrence](https://github.com/thesikanM/Placement_HomeWork/tree/main/2085-count-common-words-with-one-occurrence/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/thesikanM/Placement_HomeWork/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2540-minimum-common-value](https://github.com/thesikanM/Placement_HomeWork/tree/main/2540-minimum-common-value/) | Easy |
